@@ -1,0 +1,27 @@
+HTML 
+change special characters!
+
+
+DESKTOP
+make hamburger and button svg
+add arrow that moves to designer when clicked
+
+
+FOR MOBILE
+Media queries - look at break points
+Make desktop and info page responsive for mob
+Disable the default to scroll on decade
+Stop page scrolling on click, make addClass on click and have it fade in - add a close button to each section.
+
+
+
+SUPERDUPER SITE
+when you scroll down the designers, the timeline menu animates - scrollspy?!
+
+
+document.documentElement.clientWidth
+will get the width of the window
+write an if staement to check screen size. 
+if screen size bigger than a certain size it triggers an event handler
+
+
